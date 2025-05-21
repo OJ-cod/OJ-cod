@@ -6,7 +6,7 @@
 > _"The best way to predict the future is to invent it."_ \- Alan Kay
 
 
-🚀 **Tech enthusiast | Editor, Photographer & AI lover**  
+**Tech enthusiast | Editor, Photographer & AI lover**  
 
 ##  About Me  
 -  Was Head of PR & Strategy at **Connection #11808** (First Tech Challenge Robotics)   
