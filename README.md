@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner/Light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner/Dark.png">
   <img alt="OJ-cod Banner" src="./banner/Light.png">
 </picture>
 
