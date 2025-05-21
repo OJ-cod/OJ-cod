@@ -14,7 +14,7 @@
 -  Building cool **apps, websites, and automation tools**  
 -  Experienced in **Figma, Illustrator, and Premiere Pro**  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 -  **Languages:** C, C++, Python, HTML (and CSS) and JS  
 - **Tools & Frameworks:** Figma, Illustrator, Premiere Pro, Flatter Flow  
 -  **Robotics & AI:** Developed an **AI-based scouting system** for strategy in competition  
