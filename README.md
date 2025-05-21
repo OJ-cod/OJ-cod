@@ -9,7 +9,7 @@
 🚀 **Tech enthusiast | Editor, Photographer & AI lover**  
 
 ##  About Me  
--  Was Head of PR & Strategy at **Connection #11808** (First Tech Challenge Robotics)  
+-  Was Head of PR & Strategy at **Connection #11808** (First Tech Challenge Robotics)   
 - Passionate about **AI, Editing, Photography and software development**  
 -  Building cool **apps, websites, and automation tools**  
 -  Experienced in **Figma, Illustrator, and Premiere Pro**  
